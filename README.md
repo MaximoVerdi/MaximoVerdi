@@ -20,7 +20,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <!--Contact info-->
 <h2>Contact</h2>
-<p align="center">
+<p>
 <a href="https://www.instagram.com/maxi_verdi/">
   <img src="https://skillicons.dev/icons?i=instagram&perline=14">
 </a>
