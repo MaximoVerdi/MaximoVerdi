@@ -2,8 +2,8 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am a web development student pursuing a diploma in Full Stack Web Programming at UTN.BA E-Learning Center, with advanced knowledge in HTML and CSS.
+* **I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - Java
   - React js
