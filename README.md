@@ -24,7 +24,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <a href="https://www.instagram.com/maxi_verdi/">
   <img src="https://skillicons.dev/icons?i=instagram&perline=14">
 </a>
-  <a href="[https://www.instagram.com/maxi_verdi/](https://www.linkedin.com/in/maximo-verdi-22a426335/)">
+  <a href="[https://www.instagram.com/maxi_verdi/](https://www.linkedin.com/in/maximo-verdi-22a426335/)" targetblank>
   <img src="https://skillicons.dev/icons?i=linkedin&perline=14">
 </a>
 </p>
