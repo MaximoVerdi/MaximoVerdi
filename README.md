@@ -14,6 +14,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,html,discord,vscode&perline=14" />
   </a>
 </p>
