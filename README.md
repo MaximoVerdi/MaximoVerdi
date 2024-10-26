@@ -17,3 +17,11 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
     <img src="https://skillicons.dev/icons?i=git,github,css,html,discord,vscode&perline=14" />
   </a>
 </p>
+
+<!--Contact info-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
+  </a>
+</p>
+
