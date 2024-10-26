@@ -12,7 +12,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 <!--tech stack icons-->
-<p align="center">
+<h2>Tech Stack</h2>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,html,discord,vscode&perline=14" />
   </a>
