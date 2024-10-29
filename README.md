@@ -16,7 +16,7 @@ I am a web development student pursuing a diploma in Full Stack Web Programming 
 <h2>Tech Stack</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html&perline=14" />
   </a>
 </p>
 
