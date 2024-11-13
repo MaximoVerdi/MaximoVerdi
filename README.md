@@ -3,7 +3,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-I am a web development student pursuing a diploma in Full Stack Web Programming at UTN.BA E-Learning Center, with advanced knowledge in HTML and CSS.
+I am a web development student currently pursuing a Full Stack Web Programming diploma at UTN.BA E-Learning Center. I have advanced knowledge in HTML and CSS, and am deeply interested in building engaging, modern web applications.
 * **I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - JavaScript
