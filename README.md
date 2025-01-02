@@ -16,7 +16,7 @@ I am a web development student currently pursuing a Full Stack Web Programming d
 <h2>Tech Stack</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,git&perline=14" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ I am a web development student currently pursuing a Full Stack Web Programming d
 <h2>Tools</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,discord,vscode,bootstrap,sass&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,discord,vscode,bootstrap,sass&perline=14" />
   </a>
 </p>
 
