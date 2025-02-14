@@ -3,7 +3,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-I am a web development student currently pursuing a Full Stack Web Programming diploma at UTN.BA E-Learning Center. I have advanced knowledge in HTML and CSS, and am deeply interested in building engaging, modern web applications.
+I'm passionate about technology and software development, with a problem-solving mindset and a commitment to continuous learning. I am currently pursuing a Full Stack diploma at UTN Argentina, specializing in JavaScript, React, Node.js, and databases such as MongoDB and MySQL. I am particularly interested in creating intuitive interfaces and optimizing performance in web applications.
+
+I have developed personal projects where I integrated APIs, user authentication, and backend logic, applying best development practices. I am seeking opportunities to continue growing in the development world, providing scalable and well-structured solutions in dynamic environments.
 * **I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - JavaScript
