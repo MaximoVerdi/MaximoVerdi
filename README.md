@@ -18,7 +18,7 @@ He desarrollado proyectos personales donde integré APIs, autenticación de usua
 <h2>Tech Stack</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,react,tailwindcss&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,react,nodejs,tailwindcss&perline=14" />
   </a>
 </p>
 
